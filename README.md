@@ -1,0 +1,1 @@
+this repository contains the python code for my snake game using the gyroscopic sensors on a SenseHat attached to a raspberry pi zero wh. Moving up, down, left, and right are done by tilting the raspberry pi in their respective directions.
